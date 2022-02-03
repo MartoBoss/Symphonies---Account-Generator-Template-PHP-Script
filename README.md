@@ -17,7 +17,7 @@
 - **4) Then, go to your website and connect with : username = admin and password = password**
 - **5) Go to "Settings" and change your password, VERY IMPORTANT !!!**
 - **6) Go to your paypal account > Profile > My Selling Tools > Instant Payment Notification > Update > and then put this : http://www.YourSiteName.com/ipn/index.php**
-- 
+
 <hr>
 
 ***Discord: $MartoBossX#7777 Server: https://discord.gg/ErynDxTV5Y***
