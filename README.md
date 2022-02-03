@@ -1,6 +1,9 @@
 ### Symphonies - Account Generator Template PHP Script
+
 **Symphonies is Accounts Generator Template written on HTML, CSS, JS, PHP!**
+
 ### How To Setup?
+
 - **0) Change your PHP version to 5.6 !**
 - **1) Transfer all files to your website.**
 - **2) go to /include/settings.php and configure the database settings.**
